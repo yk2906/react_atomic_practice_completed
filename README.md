@@ -1,2 +1,2 @@
-# react_atomic_practice_completed
+# react_atomic_practice
 Created with CodeSandbox
